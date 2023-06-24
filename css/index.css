@@ -682,7 +682,7 @@ COMMON
 /*====================================
 INDEX ONE
 ====================================*/
-#index .new-release {
+#index-one .new-release {
 	height: auto;
 	width: 230px;
 	position: fixed;
@@ -696,34 +696,34 @@ INDEX ONE
 	opacity: 0;
 }
 
-#index .new-release img {
+#index-one .new-release img {
 	height: auto;
 	border-radius: 10px;
 	width: 100%;
 }
-#index .new-release .song-details {
+#index-one .new-release .song-details {
 	padding: 10px;
 }
 
-#index .new-release .song-name {
+#index-one .new-release .song-name {
 	font-size: 14px;
 	opacity: 0.9;
 	padding-top: 5px;
 	font-family: poppins;
 }
-#index .new-release .singer-name {
+#index-one .new-release .singer-name {
 	font-size: 12px;
 	opacity: 0.7;
 	font-family: poppins;
 	padding-top: 5px;
 }
-#index .play-song img {
+#index-one .play-song img {
 	height: 24px;
 	width: 24px;
 	cursor: pointer;
 }
 
-#index .music-player {
+#index-one .music-player {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
