@@ -324,6 +324,7 @@ a {
 .social-media-links-navigation {
 	position: absolute;
 	right: 100px;
+	margin-block-end: 25px;
 	bottom: 0%;
 	height: 12vh;
 	width: 20%;
