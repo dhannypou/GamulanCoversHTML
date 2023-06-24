@@ -121,7 +121,7 @@ body {
 	font-weight: 200;
 	font-family: Josefin sans;
 	font-weight: bolder;
-	background: url(../images/album-thumbnail-nine.png) important; /*HEADER BACKGROUND IMAGE*/
+	background: url(../images/bg-image-three.png); /*HEADER BACKGROUND IMAGE*/
 	background-position: center;
 	background-size: cover;
 }
