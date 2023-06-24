@@ -124,6 +124,17 @@ body {
 	background-position: center;
 	background-size: cover;
 }
+
+@media (max-width: 900px) {
+	#header {
+		width: 100vw;
+		background: url(../images/bg-image-mobile.png);
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: center;
+	}
+}
+
 .navigation {
 	width: 100%;
 	position: fixed;
