@@ -53,7 +53,7 @@ Pace.on('done', function () {
 
 
 
-            if (document.querySelector('#index-two') || document.querySelector('#index')) {
+            if (document.querySelector('#index-two') || document.querySelector('#index-one')) {
                 gsap.to('.new-release', 0, { opacity: 1 })
                 $('.new-release').delay(2000).addClass('opacity');
             }
