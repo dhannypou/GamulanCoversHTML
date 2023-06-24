@@ -118,7 +118,7 @@ body {
 	background: url(../images/bg-image-threee.jpg); /*HEADER BACKGROUND IMAGE*/
 	overflow: hidden;
 	color: rgb(240, 240, 240);
-	/* font-weight: 200; */
+	font-weight: 200;
 	font-family: Josefin sans;
 	font-weight: bolder;
 	background-position: center;
