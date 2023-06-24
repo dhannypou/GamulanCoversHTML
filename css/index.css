@@ -308,6 +308,7 @@ a {
 
 .social-media-links {
 	position: fixed;
+	margin-inline: 30px;
 	left: 0;
 	top: 0;
 	height: 100vh;
